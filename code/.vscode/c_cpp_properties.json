@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/bee/devel/include/**",
+        "/home/bee/robotak/rsait-crss/ros/devel/include/**",
+        "/home/bee/robotak/rsait_common_packages/ros/vision/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/bee/robotak/rsait_common_packages/ros/vision/src/ddynamic_reconfigure/include/**",
+        "/home/bee/robotak/rsait_common_packages/ros/vision/src/image_recorder/include/**",
+        "/home/bee/src/icsi/ros/src/python/mail_delivery/include/**",
+        "/home/bee/robotak/rsait_common_packages/ros/vision/src/opencv_apps/include/**",
+        "/home/bee/robotak/rsait_common_packages/ros/vision/src/openpose_ros/openpose_ros/include/**",
+        "/home/bee/robotak/rsait_common_packages/ros/vision/src/openpose_tools/include/**",
+        "/home/bee/robotak/rsait-crss/ros/src/pepper/pepper_state_viewer/include/**",
+        "/home/bee/robotak/rsait-crss/ros/src/playful_kinematics/include/**",
+        "/home/bee/robotak/rsait_common_packages/ros/vision/src/realsense-ros/realsense2_camera/include/**",
+        "/home/bee/robotak/rsait_common_packages/ros/vision/src/rsait_pcl_helper/include/**",
+        "/home/bee/robotak/rsait_common_packages/ros/vision/src/smile_detector/include/**",
+        "/home/bee/robotak/rsait_common_packages/ros/vision/src/zbar_ros/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
